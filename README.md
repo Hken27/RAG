@@ -51,7 +51,6 @@ Proyek ini memanfaatkan informasi publik dan sumber resmi yang disediakan oleh B
 ### Sumber Resmi
 
 - https://bpjph.halal.go.id
-- https://bpjph.id
 
 ### Materi Referensi
 
