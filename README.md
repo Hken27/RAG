@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://bpjph.halal.go.id/assets/images/logo-bpjph.png" width="180" alt="Logo BPJPH">
+<img src="https://bpjph.halal.go.id/static/d93f0cc7bdbb889a3aa6963438f07e5c/625f5/logo_halal.webp" width="180" alt="Logo BPJPH">
 
 # 🕌 BPJPH Halal Assistant
 
